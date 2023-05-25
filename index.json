@@ -12,5 +12,33 @@
     "manifest_url": "https://aperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com/florence/002/manifest.json",
     "thumbnail_url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/florence_002_001/square/250,/0/default.jpg",
     "viewpoint_url": "https://dss.hosting.nyu.edu/viewpoint/mirador/#manifests[]=https%3A%2F%2Faperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com%2Fflorence%2F002%2Fmanifest.json&theme=dark"
+  },
+  {
+    "id": "003",
+    "label": "Crucifixion with the Virgin and Saint John the Evangelist",
+    "manifest_url": "https://aperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com/florence/003/manifest.json",
+    "thumbnail_url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/florence_003_001/square/250,/0/default.jpg",
+    "viewpoint_url": "https://dss.hosting.nyu.edu/viewpoint/mirador/#manifests[]=https%3A%2F%2Faperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com%2Fflorence%2F003%2Fmanifest.json&theme=dark"
+  },
+  {
+    "id": "004",
+    "label": "Madonna and Child enthroned with Saints Augustine (?) and John the Baptist and two angels",
+    "manifest_url": "https://aperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com/florence/004/manifest.json",
+    "thumbnail_url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/florence_004_001/square/250,/0/default.jpg",
+    "viewpoint_url": "https://dss.hosting.nyu.edu/viewpoint/mirador/#manifests[]=https%3A%2F%2Faperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com%2Fflorence%2F004%2Fmanifest.json&theme=dark"
+  },
+  {
+    "id": "005",
+    "label": "Madonna and Child Enthroned with two Angels",
+    "manifest_url": "https://aperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com/florence/005/manifest.json",
+    "thumbnail_url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/florence_005_001/square/250,/0/default.jpg",
+    "viewpoint_url": "https://dss.hosting.nyu.edu/viewpoint/mirador/#manifests[]=https%3A%2F%2Faperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com%2Fflorence%2F005%2Fmanifest.json&theme=dark"
+  },
+  {
+    "id": "006",
+    "label": "Virgin Mary Nursing the Baby Jesus",
+    "manifest_url": "https://aperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com/florence/006/manifest.json",
+    "thumbnail_url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/florence_006_001/square/250,/0/default.jpg",
+    "viewpoint_url": "https://dss.hosting.nyu.edu/viewpoint/mirador/#manifests[]=https%3A%2F%2Faperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com%2Fflorence%2F006%2Fmanifest.json&theme=dark"
   }
 ]
