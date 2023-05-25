@@ -1,8 +1,8 @@
 # batch config
 
-label:          'NYU Florence IIIF Demo'
-description:    'Demo collection for NYU Florence'
-attribution:    ''
+label:          'NYU Florence Villa La Pietra IIIF Demo'
+description:    'Sample images for the Acton Collection '
+attribution:    'The Acton Collection, Villa La Pietra, Florence. New York University'
 
 presentation_api_url: 'https://aperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com'
 image_api_url:        'https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2'
