@@ -1,7 +1,7 @@
 [
   {
     "id": "001",
-    "label": "Photos of the estate of Villa La Pietra and Harold Acton",
+    "label": "Acton Mitchel Family Album",
     "manifest_url": "https://aperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com/florence/001/manifest.json",
     "thumbnail_url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/florence_001/square/250,/0/default.jpg",
     "viewpoint_url": "https://dss.hosting.nyu.edu/viewpoint/mirador/#manifests[]=https%3A%2F%2Faperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com%2Fflorence%2F001%2Fmanifest.json&theme=dark"
