@@ -1,112 +1,119 @@
 [
   {
+    "id": "000",
+    "label": "000",
+    "manifest_url": "https://aperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com/florence/000/manifest.json",
+    "thumbnail_url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/florence_000_001/square/250,/0/default.jpg",
+    "viewpoint_url": "https://dss.hosting.nyu.edu/viewpoint/mirador/#manifests[]=https%3A%2F%2Faperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com%2Fflorence%2F000%2Fmanifest.json&theme=dark"
+  },
+  {
     "id": "001",
-    "label": "Seated Bodhisattva",
+    "label": "001",
     "manifest_url": "https://aperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com/florence/001/manifest.json",
     "thumbnail_url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/florence_001/square/250,/0/default.jpg",
     "viewpoint_url": "https://dss.hosting.nyu.edu/viewpoint/mirador/#manifests[]=https%3A%2F%2Faperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com%2Fflorence%2F001%2Fmanifest.json&theme=dark"
   },
   {
     "id": "002",
-    "label": "Madonna and Child and two Angels",
+    "label": "002",
     "manifest_url": "https://aperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com/florence/002/manifest.json",
     "thumbnail_url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/florence_002_001/square/250,/0/default.jpg",
     "viewpoint_url": "https://dss.hosting.nyu.edu/viewpoint/mirador/#manifests[]=https%3A%2F%2Faperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com%2Fflorence%2F002%2Fmanifest.json&theme=dark"
   },
   {
     "id": "003",
-    "label": "Crucifixion with the Virgin and Saint John the Evangelist",
+    "label": "003",
     "manifest_url": "https://aperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com/florence/003/manifest.json",
     "thumbnail_url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/florence_003_001/square/250,/0/default.jpg",
     "viewpoint_url": "https://dss.hosting.nyu.edu/viewpoint/mirador/#manifests[]=https%3A%2F%2Faperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com%2Fflorence%2F003%2Fmanifest.json&theme=dark"
   },
   {
     "id": "004",
-    "label": "Madonna and Child enthroned with Saints Augustine (?) and John the Baptist and two angels",
+    "label": "004",
     "manifest_url": "https://aperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com/florence/004/manifest.json",
     "thumbnail_url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/florence_004_001/square/250,/0/default.jpg",
     "viewpoint_url": "https://dss.hosting.nyu.edu/viewpoint/mirador/#manifests[]=https%3A%2F%2Faperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com%2Fflorence%2F004%2Fmanifest.json&theme=dark"
   },
   {
     "id": "005",
-    "label": "Madonna and Child Enthroned with two Angels",
+    "label": "005",
     "manifest_url": "https://aperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com/florence/005/manifest.json",
     "thumbnail_url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/florence_005_001/square/250,/0/default.jpg",
     "viewpoint_url": "https://dss.hosting.nyu.edu/viewpoint/mirador/#manifests[]=https%3A%2F%2Faperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com%2Fflorence%2F005%2Fmanifest.json&theme=dark"
   },
   {
     "id": "006",
-    "label": "Virgin Mary Nursing the Baby Jesus",
+    "label": "006",
     "manifest_url": "https://aperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com/florence/006/manifest.json",
     "thumbnail_url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/florence_006_001/square/250,/0/default.jpg",
     "viewpoint_url": "https://dss.hosting.nyu.edu/viewpoint/mirador/#manifests[]=https%3A%2F%2Faperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com%2Fflorence%2F006%2Fmanifest.json&theme=dark"
   },
   {
     "id": "007",
-    "label": "The Virgin and the Child Enthroned",
+    "label": "007",
     "manifest_url": "https://aperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com/florence/007/manifest.json",
     "thumbnail_url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/florence_007/square/250,/0/default.jpg",
     "viewpoint_url": "https://dss.hosting.nyu.edu/viewpoint/mirador/#manifests[]=https%3A%2F%2Faperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com%2Fflorence%2F007%2Fmanifest.json&theme=dark"
   },
   {
     "id": "008",
-    "label": "Madonna and Child Enthroned",
+    "label": "008",
     "manifest_url": "https://aperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com/florence/008/manifest.json",
     "thumbnail_url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/florence_008_001/square/250,/0/default.jpg",
     "viewpoint_url": "https://dss.hosting.nyu.edu/viewpoint/mirador/#manifests[]=https%3A%2F%2Faperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com%2Fflorence%2F008%2Fmanifest.json&theme=dark"
   },
   {
     "id": "009",
-    "label": "Bishop Saint Blessing",
+    "label": "009",
     "manifest_url": "https://aperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com/florence/009/manifest.json",
     "thumbnail_url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/florence_009/square/250,/0/default.jpg",
     "viewpoint_url": "https://dss.hosting.nyu.edu/viewpoint/mirador/#manifests[]=https%3A%2F%2Faperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com%2Fflorence%2F009%2Fmanifest.json&theme=dark"
   },
   {
     "id": "010",
-    "label": "Madonna and Child with Saints",
+    "label": "010",
     "manifest_url": "https://aperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com/florence/010/manifest.json",
     "thumbnail_url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/florence_010_001/square/250,/0/default.jpg",
     "viewpoint_url": "https://dss.hosting.nyu.edu/viewpoint/mirador/#manifests[]=https%3A%2F%2Faperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com%2Fflorence%2F010%2Fmanifest.json&theme=dark"
   },
   {
     "id": "011",
-    "label": "Crucifix",
+    "label": "011",
     "manifest_url": "https://aperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com/florence/011/manifest.json",
     "thumbnail_url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/florence_011_001/square/250,/0/default.jpg",
     "viewpoint_url": "https://dss.hosting.nyu.edu/viewpoint/mirador/#manifests[]=https%3A%2F%2Faperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com%2Fflorence%2F011%2Fmanifest.json&theme=dark"
   },
   {
     "id": "012",
-    "label": "Mourning Virgin",
+    "label": "012",
     "manifest_url": "https://aperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com/florence/012/manifest.json",
     "thumbnail_url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/florence_012_001/square/250,/0/default.jpg",
     "viewpoint_url": "https://dss.hosting.nyu.edu/viewpoint/mirador/#manifests[]=https%3A%2F%2Faperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com%2Fflorence%2F012%2Fmanifest.json&theme=dark"
   },
   {
     "id": "013",
-    "label": "Mourning Saint John the Evangelist",
+    "label": "013",
     "manifest_url": "https://aperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com/florence/013/manifest.json",
     "thumbnail_url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/florence_013_001/square/250,/0/default.jpg",
     "viewpoint_url": "https://dss.hosting.nyu.edu/viewpoint/mirador/#manifests[]=https%3A%2F%2Faperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com%2Fflorence%2F013%2Fmanifest.json&theme=dark"
   },
   {
     "id": "014",
-    "label": "Madonna and Child Enthroned",
+    "label": "014",
     "manifest_url": "https://aperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com/florence/014/manifest.json",
     "thumbnail_url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/florence_014/square/250,/0/default.jpg",
     "viewpoint_url": "https://dss.hosting.nyu.edu/viewpoint/mirador/#manifests[]=https%3A%2F%2Faperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com%2Fflorence%2F014%2Fmanifest.json&theme=dark"
   },
   {
     "id": "015",
-    "label": "Madonna and Child Enthroned",
+    "label": "015",
     "manifest_url": "https://aperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com/florence/015/manifest.json",
     "thumbnail_url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/florence_015_001/square/250,/0/default.jpg",
     "viewpoint_url": "https://dss.hosting.nyu.edu/viewpoint/mirador/#manifests[]=https%3A%2F%2Faperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com%2Fflorence%2F015%2Fmanifest.json&theme=dark"
   },
   {
     "id": "016",
-    "label": "Madonna and Child Enthroned",
+    "label": "016",
     "manifest_url": "https://aperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com/florence/016/manifest.json",
     "thumbnail_url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/florence_016_001/square/250,/0/default.jpg",
     "viewpoint_url": "https://dss.hosting.nyu.edu/viewpoint/mirador/#manifests[]=https%3A%2F%2Faperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com%2Fflorence%2F016%2Fmanifest.json&theme=dark"
