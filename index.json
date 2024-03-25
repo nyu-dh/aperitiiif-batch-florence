@@ -75,26 +75,5 @@
     "manifest_url": "https://aperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com/florence/012/manifest.json",
     "thumbnail_url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/florence_012_001/square/250,/0/default.jpg",
     "viewpoint_url": "https://dss.hosting.nyu.edu/viewpoint/mirador/#manifests[]=https%3A%2F%2Faperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com%2Fflorence%2F012%2Fmanifest.json&theme=dark"
-  },
-  {
-    "id": "013",
-    "label": "013",
-    "manifest_url": "https://aperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com/florence/013/manifest.json",
-    "thumbnail_url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/florence_013_001/square/250,/0/default.jpg",
-    "viewpoint_url": "https://dss.hosting.nyu.edu/viewpoint/mirador/#manifests[]=https%3A%2F%2Faperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com%2Fflorence%2F013%2Fmanifest.json&theme=dark"
-  },
-  {
-    "id": "015",
-    "label": "015",
-    "manifest_url": "https://aperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com/florence/015/manifest.json",
-    "thumbnail_url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/florence_015_001/square/250,/0/default.jpg",
-    "viewpoint_url": "https://dss.hosting.nyu.edu/viewpoint/mirador/#manifests[]=https%3A%2F%2Faperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com%2Fflorence%2F015%2Fmanifest.json&theme=dark"
-  },
-  {
-    "id": "016",
-    "label": "016",
-    "manifest_url": "https://aperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com/florence/016/manifest.json",
-    "thumbnail_url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/florence_016_001/square/250,/0/default.jpg",
-    "viewpoint_url": "https://dss.hosting.nyu.edu/viewpoint/mirador/#manifests[]=https%3A%2F%2Faperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com%2Fflorence%2F016%2Fmanifest.json&theme=dark"
   }
 ]
